@@ -1,0 +1,589 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	.\pathcycle.hpp	/^    enum Tail { non, A, B };$/;"	e	enum:GeneralTranslocation::Tail
+AA	.\pathcycle.hpp	/^    enum PathType { CYCLE, AA, AB, BB };	$/;"	e	enum:GeneralTranslocation::PathType
+AB	.\pathcycle.hpp	/^    enum PathType { CYCLE, AA, AB, BB };	$/;"	e	enum:GeneralTranslocation::PathType
+B	.\pathcycle.hpp	/^    enum Tail { non, A, B };$/;"	e	enum:GeneralTranslocation::Tail
+BB	.\pathcycle.hpp	/^    enum PathType { CYCLE, AA, AB, BB };	$/;"	e	enum:GeneralTranslocation::PathType
+BFENUMTRANS_HPP	.\bfenumtrans.hpp	2;"	d
+BFEnumTrans	.\bfenumtrans.cpp	/^BFEnumTrans::BFEnumTrans()$/;"	f	class:Translocation::BFEnumTrans
+BFEnumTrans	.\bfenumtrans.hpp	/^class BFEnumTrans$/;"	c	namespace:Translocation
+BackPerm	.\bfenumtrans.hpp	/^    struct BackPerm{$/;"	s	class:Translocation::BFEnumTrans
+BackPerm	.\enumtrans.hpp	/^    struct BackPerm{$/;"	s	class:Translocation::EnumTrans
+BackPerm	.\gbfenumtrans.hpp	/^    struct BackPerm{$/;"	s	class:GeneralTranslocation::GeneralBFEnumTrans
+BackPerm	.\genumtrans.hpp	/^    struct BackPerm{$/;"	s	class:GeneralTranslocation::GeneralEnumTrans
+CHROMOSOME_HPP	.\chromosome.hpp	2;"	d
+CHROMRANGE_HPP	.\chromrange.hpp	2;"	d
+CHROMTREE_HPP	.\chromtree.hpp	2;"	d
+COMPONENT_HPP	.\component.hpp	2;"	d
+CTimer	.\ctimer.hpp	/^   class CTimer$/;"	c	namespace:Utils
+CYCLE	.\pathcycle.hpp	/^    enum PathType { CYCLE, AA, AB, BB };	$/;"	e	enum:GeneralTranslocation::PathType
+CYCLE_HPP	.\cycle.hpp	2;"	d
+ChromRange	.\chromrange.hpp	/^struct ChromRange{$/;"	s	namespace:Translocation
+ChromTree	.\chromtree.cpp	/^	ChromTree::ChromTree()$/;"	f	class:Translocation::ChromTree
+ChromTree	.\chromtree.hpp	/^class ChromTree {$/;"	c	namespace:Translocation
+ChromTreeNode	.\chromtree.hpp	/^	struct ChromTreeNode {$/;"	s	class:Translocation::ChromTree
+ChromTreeNode	.\gchromtree.hpp	/^	struct ChromTreeNode {$/;"	s	class:GeneralTranslocation::GeneralChromTree
+Chromosome	.\chromosome.cpp	/^Chromosome::Chromosome():length(0)$/;"	f	class:Translocation::Chromosome
+Chromosome	.\chromosome.cpp	/^Chromosome::Chromosome(const Chromosome& rchrom)$/;"	f	class:Translocation::Chromosome
+Chromosome	.\chromosome.hpp	/^class Chromosome {$/;"	c	namespace:Translocation
+Common	.\permutation.hpp	/^struct Common {$/;"	s	namespace:Translocation
+Component	.\component.cpp	/^Component::Component()$/;"	f	class:Translocation::Component
+Component	.\component.hpp	/^class Component$/;"	c	namespace:Translocation
+Cut	.\enumtrans.hpp	/^    enum TransMode{Proper, Merge, Cut};$/;"	e	enum:Translocation::EnumTrans::TransMode
+Cut	.\genumtrans.hpp	/^    enum TransMode{Proper, Merge, Cut};$/;"	e	enum:GeneralTranslocation::GeneralEnumTrans::TransMode
+Cycle	.\cycle.hpp	/^class Cycle$/;"	c	namespace:Translocation
+EITYPE	.\gchromtree.hpp	/^enum EITYPE { Non, Real, Strong, Semi, Weak };$/;"	g	namespace:GeneralTranslocation
+ENUMTRANSTREE_HPP	.\enumtranstree.hpp	2;"	d
+ENUMTRANS_HPP	.\enumtrans.hpp	2;"	d
+EnumTrans	.\enumtrans.cpp	/^EnumTrans::EnumTrans():m_distance(0),m_transNumber(0)$/;"	f	class:Translocation::EnumTrans
+EnumTrans	.\enumtrans.hpp	/^class EnumTrans$/;"	c	namespace:Translocation
+EnumTransTree	.\enumtranstree.cpp	/^EnumTransTree::EnumTransTree()$/;"	f	class:Translocation::EnumTransTree
+EnumTransTree	.\enumtranstree.hpp	/^class EnumTransTree$/;"	c	namespace:Translocation
+GBFENUMTRANS_HPP	.\gbfenumtrans.hpp	2;"	d
+GCHROMTREE_HPP	.\gchromtree.hpp	2;"	d
+GCOMPONENT_HPP	.\gcomponent.hpp	2;"	d
+GENEPOSITION_HPP	.\geneposition.hpp	2;"	d
+GENUMTRANSTREE_HPP	.\genumtranstree.hpp	2;"	d
+GENUMTRANS_HPP	.\genumtrans.hpp	2;"	d
+GPERMUTATION_HPP	.\gpermutation.hpp	2;"	d
+GTRANSTEST_HPP	.\gtranstest.hpp	2;"	d
+GenePosition	.\geneposition.cpp	/^GenePosition::GenePosition()$/;"	f	class:Translocation::GenePosition
+GenePosition	.\geneposition.cpp	/^GenePosition::GenePosition(const GenePosition& rgenePosit)$/;"	f	class:Translocation::GenePosition
+GenePosition	.\geneposition.hpp	/^class GenePosition$/;"	c	namespace:Translocation
+GeneralBFEnumTrans	.\gbfenumtrans.cpp	/^GeneralBFEnumTrans::GeneralBFEnumTrans()$/;"	f	class:GeneralTranslocation::GeneralBFEnumTrans
+GeneralBFEnumTrans	.\gbfenumtrans.hpp	/^class GeneralBFEnumTrans$/;"	c	namespace:GeneralTranslocation
+GeneralChromTree	.\gchromtree.cpp	/^	GeneralChromTree::GeneralChromTree()$/;"	f	class:GeneralTranslocation::GeneralChromTree
+GeneralChromTree	.\gchromtree.hpp	/^class GeneralChromTree {$/;"	c	namespace:GeneralTranslocation
+GeneralComponent	.\gcomponent.cpp	/^GeneralComponent::GeneralComponent()$/;"	f	class:GeneralTranslocation::GeneralComponent
+GeneralComponent	.\gcomponent.hpp	/^class GeneralComponent$/;"	c	namespace:GeneralTranslocation
+GeneralEnumTrans	.\genumtrans.cpp	/^GeneralEnumTrans::GeneralEnumTrans():m_distance(0),m_transNumber(0)$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+GeneralEnumTrans	.\genumtrans.hpp	/^class GeneralEnumTrans$/;"	c	namespace:GeneralTranslocation
+GeneralEnumTransTree	.\genumtranstree.cpp	/^GeneralEnumTransTree::GeneralEnumTransTree()$/;"	f	class:GeneralTranslocation::GeneralEnumTransTree
+GeneralEnumTransTree	.\genumtranstree.hpp	/^class GeneralEnumTransTree$/;"	c	namespace:GeneralTranslocation
+GeneralInterval	.\pathcycle.hpp	/^struct GeneralInterval{$/;"	s	namespace:GeneralTranslocation
+GeneralPermutation	.\gpermutation.cpp	/^GeneralPermutation::GeneralPermutation(const GeneralPermutation& rperm)$/;"	f	class:GeneralTranslocation::GeneralPermutation
+GeneralPermutation	.\gpermutation.cpp	/^GeneralPermutation::GeneralPermutation(const int* fp, int genenum, const int * chln, int chrnum)\/\/, int* lp$/;"	f	class:GeneralTranslocation::GeneralPermutation
+GeneralPermutation	.\gpermutation.hpp	/^class GeneralPermutation: public Permutation$/;"	c	namespace:GeneralTranslocation
+GeneralTranslocation	.\gbfenumtrans.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\gbfenumtrans.hpp	/^namespace GeneralTranslocation$/;"	n
+GeneralTranslocation	.\gchromtree.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\gchromtree.hpp	/^namespace GeneralTranslocation$/;"	n
+GeneralTranslocation	.\gcomponent.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\gcomponent.hpp	/^namespace GeneralTranslocation$/;"	n
+GeneralTranslocation	.\gcutleaf.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\genumtrans.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\genumtrans.hpp	/^namespace GeneralTranslocation$/;"	n
+GeneralTranslocation	.\genumtranstree.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\genumtranstree.hpp	/^namespace GeneralTranslocation$/;"	n
+GeneralTranslocation	.\ginputtranstest.cpp	/^namespace GeneralTranslocation{$/;"	n	file:
+GeneralTranslocation	.\gmergeleaf.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\gpermutation.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\gpermutation.hpp	/^namespace GeneralTranslocation$/;"	n
+GeneralTranslocation	.\grandomtranstest.cpp	/^namespace GeneralTranslocation{$/;"	n	file:
+GeneralTranslocation	.\gstatictranstest.cpp	/^namespace GeneralTranslocation{$/;"	n	file:
+GeneralTranslocation	.\gtranstest.cpp	/^namespace GeneralTranslocation{$/;"	n	file:
+GeneralTranslocation	.\gtranstest.hpp	/^namespace GeneralTranslocation{$/;"	n
+GeneralTranslocation	.\pathcycle.cpp	/^namespace GeneralTranslocation$/;"	n	file:
+GeneralTranslocation	.\pathcycle.hpp	/^namespace GeneralTranslocation$/;"	n
+HAVE_TICK_COUNTER	.\cycle.h	106;"	d
+HAVE_TICK_COUNTER	.\cycle.h	129;"	d
+HAVE_TICK_COUNTER	.\cycle.h	154;"	d
+HAVE_TICK_COUNTER	.\cycle.h	164;"	d
+HAVE_TICK_COUNTER	.\cycle.h	185;"	d
+HAVE_TICK_COUNTER	.\cycle.h	212;"	d
+HAVE_TICK_COUNTER	.\cycle.h	232;"	d
+HAVE_TICK_COUNTER	.\cycle.h	245;"	d
+HAVE_TICK_COUNTER	.\cycle.h	257;"	d
+HAVE_TICK_COUNTER	.\cycle.h	277;"	d
+HAVE_TICK_COUNTER	.\cycle.h	294;"	d
+HAVE_TICK_COUNTER	.\cycle.h	312;"	d
+HAVE_TICK_COUNTER	.\cycle.h	334;"	d
+HAVE_TICK_COUNTER	.\cycle.h	365;"	d
+HAVE_TICK_COUNTER	.\cycle.h	382;"	d
+HAVE_TICK_COUNTER	.\cycle.h	401;"	d
+HAVE_TICK_COUNTER	.\cycle.h	417;"	d
+HAVE_TICK_COUNTER	.\cycle.h	434;"	d
+HAVE_TICK_COUNTER	.\cycle.h	453;"	d
+HAVE_TICK_COUNTER	.\cycle.h	469;"	d
+HAVE_TICK_COUNTER	.\cycle.h	511;"	d
+INCLUDE_CTIMER_HPP_	.\ctimer.hpp	2;"	d
+INLINE_ELAPSED	.\cycle.h	92;"	d
+Interval	.\geneposition.hpp	/^struct Interval{$/;"	s	namespace:Translocation
+MEDIAN_HPP	.\median.hpp	2;"	d
+Median	.\median.cpp	/^Median::Median(Permutation* permut1,Permutation* permut2,Permutation* permut3)$/;"	f	class:Translocation::Median
+Median	.\median.hpp	/^class Median$/;"	c	namespace:Translocation
+Merge	.\enumtrans.hpp	/^    enum TransMode{Proper, Merge, Cut};$/;"	e	enum:Translocation::EnumTrans::TransMode
+Merge	.\genumtrans.hpp	/^    enum TransMode{Proper, Merge, Cut};$/;"	e	enum:GeneralTranslocation::GeneralEnumTrans::TransMode
+NOMINMAX	.\ctimer.hpp	5;"	d
+NodeStyle	.\chromtree.hpp	/^    enum NodeStyle { Square, Round };$/;"	g	class:Translocation::ChromTree
+NodeStyle	.\gchromtree.hpp	/^    enum NodeStyle { Square, Round };$/;"	g	class:GeneralTranslocation::GeneralChromTree
+Non	.\gchromtree.hpp	/^enum EITYPE { Non, Real, Strong, Semi, Weak };$/;"	e	enum:GeneralTranslocation::EITYPE
+PATHCYCLE_HPP	.\pathcycle.hpp	2;"	d
+PERMUTATION_HPP	.\permutation.hpp	2;"	d
+Path	.\pathcycle.hpp	/^	struct Path{$/;"	s	class:GeneralTranslocation::PathCycle
+PathCycle	.\pathcycle.cpp	/^	PathCycle::PathCycle()$/;"	f	class:GeneralTranslocation::PathCycle
+PathCycle	.\pathcycle.hpp	/^class PathCycle$/;"	c	namespace:GeneralTranslocation
+PathType	.\pathcycle.hpp	/^    enum PathType { CYCLE, AA, AB, BB };	$/;"	g	namespace:GeneralTranslocation
+Permutation	.\permutation.cpp	/^Permutation::Permutation()$/;"	f	class:Translocation::Permutation
+Permutation	.\permutation.cpp	/^Permutation::Permutation(const Permutation& rperm)$/;"	f	class:Translocation::Permutation
+Permutation	.\permutation.cpp	/^Permutation::Permutation(const int* fp, const int * chln)\/\/, int* lp$/;"	f	class:Translocation::Permutation
+Permutation	.\permutation.hpp	/^class Permutation$/;"	c	namespace:Translocation
+Position	.\geneposition.hpp	/^struct Position{$/;"	s	namespace:Translocation
+PrefixPrefix	.\chromosome.hpp	/^enum TransStyle {   PrefixPrefix, PrefixSuffix   };$/;"	e	enum:Translocation::TransStyle
+PrefixSuffix	.\chromosome.hpp	/^enum TransStyle {   PrefixPrefix, PrefixSuffix   };$/;"	e	enum:Translocation::TransStyle
+Proper	.\enumtrans.hpp	/^    enum TransMode{Proper, Merge, Cut};$/;"	e	enum:Translocation::EnumTrans::TransMode
+Proper	.\genumtrans.hpp	/^    enum TransMode{Proper, Merge, Cut};$/;"	e	enum:GeneralTranslocation::GeneralEnumTrans::TransMode
+RDTSC	.\cycle.h	193;"	d
+Real	.\gchromtree.hpp	/^enum EITYPE { Non, Real, Strong, Semi, Weak };$/;"	e	enum:GeneralTranslocation::EITYPE
+Round	.\chromtree.hpp	/^    enum NodeStyle { Square, Round };$/;"	e	enum:Translocation::ChromTree::NodeStyle
+Round	.\gchromtree.hpp	/^    enum NodeStyle { Square, Round };$/;"	e	enum:GeneralTranslocation::GeneralChromTree::NodeStyle
+Semi	.\gchromtree.hpp	/^enum EITYPE { Non, Real, Strong, Semi, Weak };$/;"	e	enum:GeneralTranslocation::EITYPE
+Square	.\chromtree.hpp	/^    enum NodeStyle { Square, Round };$/;"	e	enum:Translocation::ChromTree::NodeStyle
+Square	.\gchromtree.hpp	/^    enum NodeStyle { Square, Round };$/;"	e	enum:GeneralTranslocation::GeneralChromTree::NodeStyle
+Strong	.\gchromtree.hpp	/^enum EITYPE { Non, Real, Strong, Semi, Weak };$/;"	e	enum:GeneralTranslocation::EITYPE
+TIME_MIN	.\cycle.h	186;"	d
+TIME_MIN	.\cycle.h	213;"	d
+TRANSTEST_HPP	.\transtest.hpp	2;"	d
+Tail	.\pathcycle.hpp	/^    enum Tail { non, A, B };$/;"	g	namespace:GeneralTranslocation
+TransMode	.\enumtrans.hpp	/^    enum TransMode{Proper, Merge, Cut};$/;"	g	class:Translocation::EnumTrans
+TransMode	.\genumtrans.hpp	/^    enum TransMode{Proper, Merge, Cut};$/;"	g	class:GeneralTranslocation::GeneralEnumTrans
+TransParam	.\permutation.hpp	/^struct TransParam {\/\/invariant: chromIndex1<chromIndex2$/;"	s	namespace:Translocation
+TransParamCompare	.\median.hpp	/^	struct TransParamCompare:$/;"	s	class:Translocation::Median
+TransStyle	.\chromosome.hpp	/^enum TransStyle {   PrefixPrefix, PrefixSuffix   };$/;"	g	namespace:Translocation
+TransTreeNode	.\enumtranstree.hpp	/^    struct TransTreeNode{$/;"	s	class:Translocation::EnumTransTree
+TransTreeNode	.\genumtranstree.hpp	/^    struct TransTreeNode{$/;"	s	class:GeneralTranslocation::GeneralEnumTransTree
+Translocation	.\bfenumtrans.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\bfenumtrans.hpp	/^namespace Translocation$/;"	n
+Translocation	.\chromosome.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\chromosome.hpp	/^namespace Translocation$/;"	n
+Translocation	.\chromrange.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\chromrange.hpp	/^namespace Translocation$/;"	n
+Translocation	.\chromtree.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\chromtree.hpp	/^namespace Translocation$/;"	n
+Translocation	.\component.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\component.hpp	/^namespace Translocation$/;"	n
+Translocation	.\cutleaf.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\cycle.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\cycle.hpp	/^namespace Translocation$/;"	n
+Translocation	.\enumtrans.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\enumtrans.hpp	/^namespace Translocation$/;"	n
+Translocation	.\enumtranstree.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\enumtranstree.hpp	/^namespace Translocation$/;"	n
+Translocation	.\geneposition.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\geneposition.hpp	/^namespace Translocation$/;"	n
+Translocation	.\inputtranstest.cpp	/^namespace Translocation{$/;"	n	file:
+Translocation	.\median.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\median.hpp	/^namespace Translocation$/;"	n
+Translocation	.\mergeleaf.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\permutation.cpp	/^namespace Translocation$/;"	n	file:
+Translocation	.\permutation.hpp	/^namespace Translocation$/;"	n
+Translocation	.\randomtranstest.cpp	/^namespace Translocation{$/;"	n	file:
+Translocation	.\statictranstest.cpp	/^namespace Translocation{$/;"	n	file:
+Translocation	.\transtest.cpp	/^namespace Translocation{$/;"	n	file:
+Translocation	.\transtest.hpp	/^namespace Translocation{$/;"	n
+TreeNode	.\chromtree.hpp	/^	struct TreeNode {$/;"	s	class:Translocation::ChromTree
+TreeNode	.\gchromtree.hpp	/^	struct TreeNode {$/;"	s	class:GeneralTranslocation::GeneralChromTree
+Utils	.\ctimer.hpp	/^namespace Utils$/;"	n
+Vertex	.\median.hpp	/^	struct Vertex{$/;"	s	class:Translocation::Median
+VertexCompare	.\median.hpp	/^	struct VertexCompare:$/;"	s	class:Translocation::Median
+Weak	.\gchromtree.hpp	/^enum EITYPE { Non, Real, Strong, Semi, Weak };$/;"	e	enum:GeneralTranslocation::EITYPE
+addCap	.\gpermutation.cpp	/^void addCap(GeneralPermutation& A, GeneralPermutation& B)$/;"	f	namespace:GeneralTranslocation
+addcap	.\chromosome.cpp	/^void Chromosome::addcap(int cap1, int cap2)$/;"	f	class:Translocation::Chromosome
+assign	.\chromosome.cpp	/^void Chromosome::assign(const int* fp, int k, int ln)$/;"	f	class:Translocation::Chromosome
+backup	.\permutation.cpp	/^void Permutation::backup(Chromosome& chromPermOld, int chi)$/;"	f	class:Translocation::Permutation
+begin	.\geneposition.hpp	/^	short int begin;$/;"	m	struct:Translocation::Interval
+begin	.\pathcycle.hpp	/^	short int begin;$/;"	m	struct:GeneralTranslocation::GeneralInterval
+beginIndex	.\geneposition.hpp	/^    short int* beginIndex;$/;"	m	class:Translocation::GenePosition
+beginPosit	.\pathcycle.hpp	/^		Position beginPosit;	\/\/ 2*oldgeneIndex || 2*oldgeneIndex+1 \/\/ geneIndex\/2->oldgeneIndex$/;"	m	struct:GeneralTranslocation::PathCycle::Path
+best	.\median.hpp	/^		short best;$/;"	m	struct:Translocation::Median::Vertex
+bfEnumTrans	.\transtest.cpp	/^int bfEnumTrans(Permutation& permut, double& usetime, bool wrt)$/;"	f	namespace:Translocation
+child	.\chromtree.hpp	/^		list<TreeNode *> child;\/\/vector;$/;"	m	struct:Translocation::ChromTree::TreeNode
+child	.\enumtranstree.hpp	/^        vector<TransTreeNode*> child;$/;"	m	struct:Translocation::EnumTransTree::TransTreeNode
+child	.\gchromtree.hpp	/^		list<TreeNode *> child;\/\/vector;$/;"	m	struct:GeneralTranslocation::GeneralChromTree::TreeNode
+child	.\genumtranstree.hpp	/^        vector<TransTreeNode*> child;$/;"	m	struct:GeneralTranslocation::GeneralEnumTransTree::TransTreeNode
+chree1	.\bfenumtrans.hpp	/^        ChromTree*  chree1;$/;"	m	struct:Translocation::BFEnumTrans::BackPerm
+chree1	.\enumtrans.hpp	/^        ChromTree*  chree1;$/;"	m	struct:Translocation::EnumTrans::BackPerm
+chree1	.\gbfenumtrans.hpp	/^        GeneralChromTree*  chree1;$/;"	m	struct:GeneralTranslocation::GeneralBFEnumTrans::BackPerm
+chree1	.\genumtrans.hpp	/^        GeneralChromTree*  chree1;$/;"	m	struct:GeneralTranslocation::GeneralEnumTrans::BackPerm
+chree2	.\bfenumtrans.hpp	/^        ChromTree*  chree2;$/;"	m	struct:Translocation::BFEnumTrans::BackPerm
+chree2	.\enumtrans.hpp	/^        ChromTree*  chree2;$/;"	m	struct:Translocation::EnumTrans::BackPerm
+chree2	.\gbfenumtrans.hpp	/^        GeneralChromTree*  chree2;$/;"	m	struct:GeneralTranslocation::GeneralBFEnumTrans::BackPerm
+chree2	.\genumtrans.hpp	/^        GeneralChromTree*  chree2;$/;"	m	struct:GeneralTranslocation::GeneralEnumTrans::BackPerm
+chrom1	.\bfenumtrans.hpp	/^        Chromosome* chrom1;$/;"	m	struct:Translocation::BFEnumTrans::BackPerm
+chrom1	.\enumtrans.hpp	/^        Chromosome* chrom1;$/;"	m	struct:Translocation::EnumTrans::BackPerm
+chrom1	.\gbfenumtrans.hpp	/^        Chromosome* chrom1;$/;"	m	struct:GeneralTranslocation::GeneralBFEnumTrans::BackPerm
+chrom1	.\genumtrans.hpp	/^        Chromosome* chrom1;$/;"	m	struct:GeneralTranslocation::GeneralEnumTrans::BackPerm
+chrom2	.\bfenumtrans.hpp	/^        Chromosome* chrom2;$/;"	m	struct:Translocation::BFEnumTrans::BackPerm
+chrom2	.\enumtrans.hpp	/^        Chromosome* chrom2;$/;"	m	struct:Translocation::EnumTrans::BackPerm
+chrom2	.\gbfenumtrans.hpp	/^        Chromosome* chrom2;$/;"	m	struct:GeneralTranslocation::GeneralBFEnumTrans::BackPerm
+chrom2	.\genumtrans.hpp	/^        Chromosome* chrom2;$/;"	m	struct:GeneralTranslocation::GeneralEnumTrans::BackPerm
+chromIndex	.\chromrange.hpp	/^    short int chromIndex;$/;"	m	struct:Translocation::ChromRange
+chromIndex	.\geneposition.hpp	/^    short int chromIndex;$/;"	m	struct:Translocation::Position
+chromIndex1	.\permutation.hpp	/^	short int chromIndex1;$/;"	m	struct:Translocation::TransParam
+chromIndex2	.\permutation.hpp	/^	short int chromIndex2;$/;"	m	struct:Translocation::TransParam
+chromLeafNumber	.\chromtree.hpp	/^    int chromLeafNumber;$/;"	m	class:Translocation::ChromTree
+chromLeafNumber	.\gchromtree.hpp	/^    int chromLeafNumber;\/\/ rmsp$/;"	m	class:GeneralTranslocation::GeneralChromTree
+chromNumber	.\gpermutation.hpp	/^	int chromNumber;$/;"	m	class:GeneralTranslocation::GeneralPermutation
+chromNumber	.\permutation.cpp	/^int Common::chromNumber;$/;"	m	class:Translocation::Common	file:
+chromNumber	.\permutation.hpp	/^	static int chromNumber;$/;"	m	struct:Translocation::Common
+chromSemiLeafNumber	.\gchromtree.hpp	/^    int chromSemiLeafNumber;\/\/ smsp$/;"	m	class:GeneralTranslocation::GeneralChromTree
+clearTrees	.\chromtree.cpp	/^	void ChromTree::clearTrees()$/;"	f	class:Translocation::ChromTree
+clearTrees	.\gchromtree.cpp	/^	void GeneralChromTree::clearTrees()$/;"	f	class:GeneralTranslocation::GeneralChromTree
+computeMedian	.\median.cpp	/^void Median::computeMedian()$/;"	f	class:Translocation::Median
+constructInterleave	.\pathcycle.cpp	/^	void PathCycle::constructInterleave(const GenePosition& genePosit)$/;"	f	class:GeneralTranslocation::PathCycle
+constructTP	.\chromtree.cpp	/^	void ChromTree::constructTP(const vector<Interval>& comps, const short int* start, const short int* end, const int length)$/;"	f	class:Translocation::ChromTree
+constructTP	.\gchromtree.cpp	/^	void GeneralChromTree::constructTP(const vector<GeneralInterval>& comps, const short int* start, const short int* end, const int length)$/;"	f	class:GeneralTranslocation::GeneralChromTree
+countChromLeafNumber	.\chromtree.cpp	/^	void ChromTree::countChromLeafNumber()$/;"	f	class:Translocation::ChromTree
+countChromLeafNumber	.\gchromtree.cpp	/^	void GeneralChromTree::countChromLeafNumber()$/;"	f	class:GeneralTranslocation::GeneralChromTree
+countf	.\component.cpp	/^int Component::countf(int leafnum, int treenum)const$/;"	f	class:Translocation::Component
+countgf	.\gcomponent.cpp	/^int GeneralComponent::countgf(EITYPE ei,int treenum,int leafnum,int semitreenum,int semileafnum,int realsemitreenum,int semirealtreenum)const$/;"	f	class:GeneralTranslocation::GeneralComponent
+createChromTree	.\component.cpp	/^void Component::createChromTree(const Permutation& permut, int chn, ChromTree& chrtr)$/;"	f	class:Translocation::Component
+createChromTree	.\gcomponent.cpp	/^void GeneralComponent::createChromTree(const GeneralPermutation& permut,const GenePosition& genePosit, const PathCycle& paths, int chn, GeneralChromTree& chrtr)$/;"	f	class:GeneralTranslocation::GeneralComponent
+createRandomLeafPermut	.\randomtranstest.cpp	/^void createRandomLeafPermut(Permutation& permut)$/;"	f	namespace:Translocation
+createRandomPermut	.\randomtranstest.cpp	/^void createRandomPermut(Permutation& permut, int m)$/;"	f	namespace:Translocation
+createTotalTree	.\component.cpp	/^void Component::createTotalTree(const Permutation& permut)$/;"	f	class:Translocation::Component
+createTotalTree	.\gcomponent.cpp	/^void GeneralComponent::createTotalTree(const GeneralPermutation& permut, const GenePosition& genePosit, const PathCycle& paths)$/;"	f	class:GeneralTranslocation::GeneralComponent
+d1	.\median.hpp	/^		short d1,d2,d3;$/;"	m	struct:Translocation::Median::Vertex
+d12	.\median.hpp	/^    int d12,d23,d13;$/;"	m	class:Translocation::Median
+d13	.\median.hpp	/^    int d12,d23,d13;$/;"	m	class:Translocation::Median
+d2	.\median.hpp	/^		short d1,d2,d3;$/;"	m	struct:Translocation::Median::Vertex
+d23	.\median.hpp	/^    int d12,d23,d13;$/;"	m	class:Translocation::Median
+d3	.\median.hpp	/^		short d1,d2,d3;$/;"	m	struct:Translocation::Median::Vertex
+deleteTP	.\chromtree.cpp	/^	void ChromTree::deleteTP()$/;"	f	class:Translocation::ChromTree
+deleteTP	.\gchromtree.cpp	/^	void GeneralChromTree::deleteTP()$/;"	f	class:GeneralTranslocation::GeneralChromTree
+deleteTree	.\chromtree.cpp	/^	void ChromTree::ChromTreeNode::deleteTree()$/;"	f	class:Translocation::ChromTree::ChromTreeNode
+deleteTree	.\gchromtree.cpp	/^	void GeneralChromTree::ChromTreeNode::deleteTree()$/;"	f	class:GeneralTranslocation::GeneralChromTree::ChromTreeNode
+doGeneralTranslocation	.\gpermutation.cpp	/^void GeneralPermutation::doGeneralTranslocation(const TransParam& trprm)\/\/has no cap$/;"	f	class:GeneralTranslocation::GeneralPermutation
+doProperTrans	.\enumtrans.cpp	/^void EnumTrans::doProperTrans(Permutation& perm, int newLeaf, int newf, vector<TransParam>& trsprms)$/;"	f	class:Translocation::EnumTrans
+doProperTrans	.\genumtrans.cpp	/^void GeneralEnumTrans::doProperTrans(GeneralPermutation& perm, int newLeaf, int newf, vector<TransParam>& trsprms)$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+doTrans	.\chromosome.cpp	/^void doTrans(Chromosome& chrom1,int gene1, Chromosome& chrom2, int gene2, TransStyle trstyl)$/;"	f	namespace:Translocation
+doTrans	.\enumtranstree.cpp	/^void EnumTransTree::doTrans(vector<TransParam>& trsprms, TransTreeNode* fttnode)$/;"	f	class:Translocation::EnumTransTree
+doTrans	.\genumtranstree.cpp	/^void GeneralEnumTransTree::doTrans(vector<TransParam>& trsprms, TransTreeNode* fttnode)$/;"	f	class:GeneralTranslocation::GeneralEnumTransTree
+doTransParam	.\bfenumtrans.cpp	/^void BFEnumTrans::doTransParam(Permutation& perm,GenePosition& gnpst, TransParam& trprm,ostream& fout,bool wrt)$/;"	f	class:Translocation::BFEnumTrans
+doTransParam	.\enumtrans.cpp	/^void EnumTrans::doTransParam(Permutation& perm, vector<TransParam>& trsprms, TransMode trmd)$/;"	f	class:Translocation::EnumTrans
+doTransParam	.\gbfenumtrans.cpp	/^void GeneralBFEnumTrans::doTransParam(GeneralPermutation& perm, GeneralPermutation& rperm, GenePosition& gnpst, TransParam& trprm,ostream& fout,bool wrt)$/;"	f	class:GeneralTranslocation::GeneralBFEnumTrans
+doTransParam	.\genumtrans.cpp	/^void GeneralEnumTrans::doTransParam(GeneralPermutation& perm, vector<TransParam>& trsprms, TransMode trmd)$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+doTranslocation	.\permutation.cpp	/^void Permutation::doTranslocation(const TransParam& trprm)$/;"	f	class:Translocation::Permutation
+elapsed	.\cycle.h	/^static __inline double elapsed(ticks t1, ticks t0) \/* time in nanoseconds *\/$/;"	f
+elapsed	.\cycle.h	/^static __inline double elapsed(ticks t1, ticks t0)$/;"	f
+elapsed	.\cycle.h	/^static inline double elapsed(ticks t1, ticks t0)$/;"	f
+end	.\geneposition.hpp	/^	short int end;$/;"	m	struct:Translocation::Interval
+end	.\pathcycle.hpp	/^	short int end;$/;"	m	struct:GeneralTranslocation::GeneralInterval
+endIndex	.\chromrange.hpp	/^    short int endIndex;$/;"	m	struct:Translocation::ChromRange
+endPosit	.\pathcycle.hpp	/^		Position endPosit;$/;"	m	struct:GeneralTranslocation::PathCycle::Path
+findAllTrans	.\bfenumtrans.cpp	/^int BFEnumTrans::findAllTrans(Permutation& permut,ostream& fout, bool wrt)$/;"	f	class:Translocation::BFEnumTrans
+findAllTrans	.\enumtrans.cpp	/^int EnumTrans::findAllTrans(Permutation& firstPerm)$/;"	f	class:Translocation::EnumTrans
+findAllTrans	.\gbfenumtrans.cpp	/^int GeneralBFEnumTrans::findAllTrans(GeneralPermutation& permut, GeneralPermutation& rpermut, ostream& fout, bool wrt)$/;"	f	class:GeneralTranslocation::GeneralBFEnumTrans
+findAllTrans	.\genumtrans.cpp	/^int GeneralEnumTrans::findAllTrans(GeneralPermutation& firstPerm)$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+findComps	.\component.cpp	/^int Component::findComps(const Permutation& permut, int chn, vector<Interval>& comps, short int* compBegin, short int* compEnd)$/;"	f	class:Translocation::Component
+findComps	.\pathcycle.cpp	/^	int  PathCycle::findComps(const GeneralPermutation& permut, const GenePosition& genePosit, const int chn, vector<GeneralInterval>& comps, short int* compBegin, short int* compEnd)const$/;"	f	class:GeneralTranslocation::PathCycle
+gbfEnumTrans	.\gtranstest.cpp	/^int gbfEnumTrans(GeneralPermutation& permut,GeneralPermutation& rpermut, double& usetime, bool wrt)$/;"	f	namespace:GeneralTranslocation
+gcreateRandomLeafPermut	.\grandomtranstest.cpp	/^void gcreateRandomLeafPermut(GeneralPermutation& permut)$/;"	f	namespace:GeneralTranslocation
+gcreateRandomPermut	.\grandomtranstest.cpp	/^void gcreateRandomPermut(GeneralPermutation& permut, int m)$/;"	f	namespace:GeneralTranslocation
+geneIndex	.\geneposition.hpp	/^    short int geneIndex;$/;"	m	struct:Translocation::Position
+geneIndex1	.\permutation.hpp	/^	short int geneIndex1;$/;"	m	struct:Translocation::TransParam
+geneIndex2	.\permutation.hpp	/^	short int geneIndex2;$/;"	m	struct:Translocation::TransParam
+geneNumber	.\permutation.cpp	/^int Common::geneNumber;$/;"	m	class:Translocation::Common	file:
+geneNumber	.\permutation.hpp	/^	static int geneNumber;$/;"	m	struct:Translocation::Common
+generalAllLeafNumber	.\gcomponent.cpp	/^int GeneralComponent::generalAllLeafNumber()$/;"	f	class:GeneralTranslocation::GeneralComponent
+generateOneTransSequence	.\enumtrans.cpp	/^void EnumTrans::generateOneTransSequence(ostream& os, const Permutation& firstPerm, vector<TransParam>& sequen)const$/;"	f	class:Translocation::EnumTrans
+generateOneTransSequence	.\genumtrans.cpp	/^void GeneralEnumTrans::generateOneTransSequence(ostream& os, const GeneralPermutation& firstPerm, vector<TransParam>& sequen)const$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+generatePerms	.\enumtrans.cpp	/^void EnumTrans::generatePerms(ostream& os, const Permutation& firstPerm)const$/;"	f	class:Translocation::EnumTrans
+generatePerms	.\genumtrans.cpp	/^void GeneralEnumTrans::generatePerms(ostream& os, const GeneralPermutation& firstPerm)const$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+genes	.\chromosome.hpp	/^    deque<short int> genes;$/;"	m	class:Translocation::Chromosome
+genome	.\permutation.hpp	/^	Chromosome* genome;$/;"	m	class:Translocation::Permutation
+getAllCutTransParam	.\cutleaf.cpp	/^int getAllCutTransParam(const Permutation& permut, const Component& comps, vector<TransParam>& trsprms)$/;"	f	namespace:Translocation
+getAllCutTransParam	.\gcutleaf.cpp	/^int getAllCutTransParam(const GeneralPermutation& permut, const GeneralComponent& comps, vector<TransParam>& trsprms)$/;"	f	namespace:GeneralTranslocation
+getAllMergeTransParam	.\gmergeleaf.cpp	/^int getAllMergeTransParam(const GeneralPermutation& permut, const GeneralComponent& comps, vector<TransParam>& trsprms)$/;"	f	namespace:GeneralTranslocation
+getAllMergeTransParam	.\mergeleaf.cpp	/^int getAllMergeTransParam(const Permutation& permut, const Component& comps, vector<TransParam>& trsprms)$/;"	f	namespace:Translocation
+getAllTrans	.\bfenumtrans.cpp	/^void BFEnumTrans::getAllTrans(const Permutation& permut, vector<TransParam>& trps)$/;"	f	class:Translocation::BFEnumTrans
+getAllTrans	.\enumtrans.cpp	/^void EnumTrans::getAllTrans(vector<TransParam>& alltrps)const$/;"	f	class:Translocation::EnumTrans
+getAllTransSequence	.\enumtranstree.cpp	/^void EnumTransTree::getAllTransSequence(const Permutation& permut,ostream& os, bool wrt)$/;"	f	class:Translocation::EnumTransTree
+getAllTransSequence	.\genumtranstree.cpp	/^void GeneralEnumTransTree::getAllTransSequence(const GeneralPermutation& permut,ostream& os, bool wrt)$/;"	f	class:GeneralTranslocation::GeneralEnumTransTree
+getBeginIndex	.\geneposition.hpp	/^    int getBeginIndex(int chi)const{$/;"	f	class:Translocation::GenePosition
+getBlackPair	.\chromrange.cpp	/^int getBlackPair(const ChromRange& chromrg1, const ChromRange& chromrg2, vector<TransParam>& trsprms)$/;"	f	namespace:Translocation
+getCaseValue	.\component.cpp	/^void Component::getCaseValue(int& newLeaf, int& newf)const$/;"	f	class:Translocation::Component
+getCaseValue	.\gcomponent.cpp	/^void GeneralComponent::getCaseValue(int& newLeaf, int& newf)const$/;"	f	class:GeneralTranslocation::GeneralComponent
+getChromLeafNumber	.\chromtree.hpp	/^    const int getChromLeafNumber()const{$/;"	f	class:Translocation::ChromTree
+getChromLeafNumber	.\gchromtree.hpp	/^    const int getChromLeafNumber()const{$/;"	f	class:GeneralTranslocation::GeneralChromTree
+getChromNumber	.\gpermutation.hpp	/^	const int getChromNumber()const{$/;"	f	class:GeneralTranslocation::GeneralPermutation
+getChromSemiLeafNumber	.\gchromtree.hpp	/^    const int getChromSemiLeafNumber()const{$/;"	f	class:GeneralTranslocation::GeneralChromTree
+getCycles	.\cycle.cpp	/^int Cycle::getCycles(const Permutation& permut,const GenePosition& genePosit, vector<TransParam>& trsprms, bool fill)\/\/$/;"	f	class:Translocation::Cycle
+getDistance	.\bfenumtrans.cpp	/^int BFEnumTrans::getDistance(Permutation& permut)$/;"	f	class:Translocation::BFEnumTrans
+getDistance	.\enumtrans.cpp	/^int EnumTrans::getDistance(Permutation& firstPerm)\/\/,bool fill$/;"	f	class:Translocation::EnumTrans
+getDistance	.\gbfenumtrans.cpp	/^int GeneralBFEnumTrans::getDistance(GeneralPermutation& permut, GeneralPermutation& rpermut)$/;"	f	class:GeneralTranslocation::GeneralBFEnumTrans
+getDistance	.\genumtrans.cpp	/^int GeneralEnumTrans::getDistance(GeneralPermutation& firstPerm)\/\/,bool fill$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+getEIType	.\gchromtree.cpp	/^	EITYPE GeneralChromTree::getEIType()const$/;"	f	class:GeneralTranslocation::GeneralChromTree
+getEIType	.\gcomponent.cpp	/^EITYPE GeneralComponent::getEIType()const$/;"	f	class:GeneralTranslocation::GeneralComponent
+getEIType	.\gcomponent.cpp	/^EITYPE GeneralComponent::getEIType(int chi1, int chi2, GeneralChromTree& chrtr1, GeneralChromTree& chrtr2)const$/;"	f	class:GeneralTranslocation::GeneralComponent
+getGene	.\chromosome.hpp	/^    const int getGene(int i)const {$/;"	f	class:Translocation::Chromosome
+getGene	.\permutation.cpp	/^const int Permutation::getGene(int chi, int genei)const$/;"	f	class:Translocation::Permutation
+getInputPermut	.\inputtranstest.cpp	/^void getInputPermut(vector<int>& genes, vector<int>& chromln)\/\/int*, int*$/;"	f	namespace:Translocation
+getLength	.\chromosome.hpp	/^    const int getLength()const {$/;"	f	class:Translocation::Chromosome
+getLength	.\permutation.cpp	/^const int Permutation::getLength(int chi)const$/;"	f	class:Translocation::Permutation
+getMedian	.\median.hpp	/^	Permutation* getMedian()const{ return medianperm; }$/;"	f	class:Translocation::Median
+getNeutralTrans	.\enumtrans.cpp	/^void EnumTrans::getNeutralTrans(vector<TransParam>& neutrps)const$/;"	f	class:Translocation::EnumTrans
+getNextGene	.\geneposition.cpp	/^void GenePosition::getNextGene(const Permutation& permut,int absgene,Position& postn,int& gene,int & totalindex)const$/;"	f	class:Translocation::GenePosition
+getNonLeaf	.\cutleaf.cpp	/^int getNonLeaf(const Permutation& permut, const ChromRange& chromrg1, const Component& comps, vector<TransParam>& trsprms)$/;"	f	namespace:Translocation
+getNonLeaf	.\gcutleaf.cpp	/^int getNonLeaf(const GeneralPermutation& permut, const ChromRange& chromrg1, const GeneralComponent& comps, vector<TransParam>& trsprms)$/;"	f	namespace:GeneralTranslocation
+getOneTransSequence	.\enumtrans.cpp	/^void EnumTrans::getOneTransSequence(const Permutation& firstPermut,vector<TransParam>& sequen)$/;"	f	class:Translocation::EnumTrans
+getOneTransSequence	.\genumtrans.cpp	/^void GeneralEnumTrans::getOneTransSequence(const GeneralPermutation& firstPermut,vector<TransParam>& sequen)$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+getPathCycles	.\pathcycle.cpp	/^	void PathCycle::getPathCycles(const GeneralPermutation& permut,const GenePosition& genePosit, vector<TransParam>& trsprms, bool fill)\/\/$/;"	f	class:GeneralTranslocation::PathCycle
+getPathCyleNumber	.\pathcycle.hpp	/^	int getPathCyleNumber()const{$/;"	f	class:GeneralTranslocation::PathCycle
+getPosition	.\geneposition.hpp	/^    Position& getPosition(int geneabs)const{$/;"	f	class:Translocation::GenePosition
+getProperTransParam	.\cycle.cpp	/^void Cycle::getProperTransParam(vector<pair<Position,bool> >& extcycle,vector<TransParam>& trsprms)$/;"	f	class:Translocation::Cycle
+getProperTransParam	.\pathcycle.cpp	/^		void PathCycle::getProperTransParam(vector<Position>& extcycle,vector<TransParam>& trsprms)$/;"	f	class:GeneralTranslocation::PathCycle
+getRealSemiTreeNumber	.\gchromtree.hpp	/^	const int getRealSemiTreeNumber()const{$/;"	f	class:GeneralTranslocation::GeneralChromTree
+getSecondes	.\ctimer.hpp	/^      inline double getSecondes() const$/;"	f	class:Utils::CTimer
+getSemiRealTreeNumber	.\gchromtree.hpp	/^	const int getSemiRealTreeNumber()const{$/;"	f	class:GeneralTranslocation::GeneralChromTree
+getSemiTreeNumber	.\gchromtree.hpp	/^    const int getSemiTreeNumber()const{$/;"	f	class:GeneralTranslocation::GeneralChromTree
+getTreeNumber	.\chromtree.hpp	/^    const int getTreeNumber()const{$/;"	f	class:Translocation::ChromTree
+getTreeNumber	.\gchromtree.hpp	/^    const int getTreeNumber()const{$/;"	f	class:GeneralTranslocation::GeneralChromTree
+getticks	.\cycle.h	/^static __inline ticks getticks(void)$/;"	f
+getticks	.\cycle.h	/^static __inline__ ticks getticks(void)$/;"	f
+getticks	.\cycle.h	/^static inline ticks getticks(void)$/;"	f
+getticks	.\cycle.h	/^static inline unsigned long getticks(void)$/;"	f
+getticks	.\cycle.h	/^static ticks getticks(void)$/;"	f
+getticks	.\cycle.h	102;"	d
+getticks	.\cycle.h	162;"	d
+getticks	.\cycle.h	254;"	d
+getticks	.\cycle.h	465;"	d
+ggetInputPermut	.\ginputtranstest.cpp	/^void ggetInputPermut(vector<int>& genes, vector<int>& chromln)\/\/int*, int*$/;"	f	namespace:GeneralTranslocation
+ginputTest	.\ginputtranstest.cpp	/^void ginputTest(bool tr,bool wrt,bool bf)$/;"	f	namespace:GeneralTranslocation
+ginputTest	.\ginputtranstest.cpp	/^void ginputTest(bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:GeneralTranslocation
+ginterval	.\gchromtree.hpp	/^		GeneralInterval ginterval;$/;"	m	struct:GeneralTranslocation::GeneralChromTree::TreeNode
+gintvl	.\gchromtree.hpp	/^		GeneralInterval gintvl;$/;"	m	struct:GeneralTranslocation::GeneralChromTree::ChromTreeNode
+grandomEnumTestALL	.\grandomtranstest.cpp	/^void grandomEnumTestALL(int num)$/;"	f	namespace:GeneralTranslocation
+grandomTest	.\grandomtranstest.cpp	/^void grandomTest(bool tr,bool wrt,bool bf)$/;"	f	namespace:GeneralTranslocation
+grandomTest	.\grandomtranstest.cpp	/^void grandomTest(bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:GeneralTranslocation
+gstaticTest	.\gstatictranstest.cpp	/^void gstaticTest(bool tr,bool wrt,bool bf)$/;"	f	namespace:GeneralTranslocation
+gstaticTest	.\gstatictranstest.cpp	/^void gstaticTest(bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:GeneralTranslocation
+gstaticTest2	.\gstatictranstest.cpp	/^void gstaticTest2(bool tr,bool wrt,bool bf)$/;"	f	namespace:GeneralTranslocation
+gstaticTest2	.\gstatictranstest.cpp	/^void gstaticTest2(bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:GeneralTranslocation
+gtestEnumTrans	.\gtranstest.cpp	/^int gtestEnumTrans(GeneralPermutation& permut, double& usetime, bool wrt)$/;"	f	namespace:GeneralTranslocation
+gtestEnumTransTree	.\gtranstest.cpp	/^void gtestEnumTransTree(GeneralPermutation& permut, double& usetime, bool wrt)$/;"	f	namespace:GeneralTranslocation
+gtestPermut	.\gtranstest.cpp	/^void gtestPermut(GeneralPermutation& permut, GeneralPermutation& rpermut,bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:GeneralTranslocation
+idxPath	.\pathcycle.hpp	/^	vector<pair<Path*, int> > idxPath;\/\/next*$/;"	m	class:GeneralTranslocation::PathCycle
+initBeginIndex	.\geneposition.cpp	/^void GenePosition::initBeginIndex(const Permutation& permut)$/;"	f	class:Translocation::GenePosition
+initPosition	.\geneposition.cpp	/^void GenePosition::initPosition(const Permutation& permut)$/;"	f	class:Translocation::GenePosition
+inputTest	.\inputtranstest.cpp	/^void inputTest(bool tr,bool wrt,bool bf)$/;"	f	namespace:Translocation
+inputTest	.\inputtranstest.cpp	/^void inputTest(bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:Translocation
+intraChrom	.\pathcycle.hpp	/^		bool intraChrom;\/\/intra chromosome$/;"	m	struct:GeneralTranslocation::PathCycle::Path
+intvl	.\chromtree.hpp	/^		Interval intvl;$/;"	m	struct:Translocation::ChromTree::ChromTreeNode
+intvl	.\chromtree.hpp	/^		Interval intvl;$/;"	m	struct:Translocation::ChromTree::TreeNode
+isEqual	.\chromosome.cpp	/^bool isEqual(const Chromosome& lchrom, const Chromosome& rchrom)$/;"	f	namespace:Translocation
+isGeneralEmpty	.\chromosome.hpp	/^	const bool isGeneralEmpty()const{$/;"	f	class:Translocation::Chromosome
+isTails	.\chromosome.hpp	/^    const bool isTails(int gni)const{$/;"	f	class:Translocation::Chromosome
+isTails	.\permutation.cpp	/^const bool Permutation::isTails(int chi,int gni)const$/;"	f	class:Translocation::Permutation
+label	.\median.hpp	/^		Permutation * label;$/;"	m	struct:Translocation::Median::Vertex
+leafNumber	.\chromtree.hpp	/^		short int leafNumber;$/;"	m	struct:Translocation::ChromTree::ChromTreeNode
+leafNumber	.\gchromtree.hpp	/^		short int leafNumber;\/\/leafs.size();$/;"	m	struct:GeneralTranslocation::GeneralChromTree::ChromTreeNode
+leafs	.\chromtree.hpp	/^		vector<Interval> leafs;$/;"	m	struct:Translocation::ChromTree::ChromTreeNode
+leafs	.\gchromtree.hpp	/^		vector<GeneralInterval> leafs;$/;"	m	struct:GeneralTranslocation::GeneralChromTree::ChromTreeNode
+length	.\chromosome.hpp	/^    int length;$/;"	m	class:Translocation::Chromosome
+lf	.\gbfenumtrans.hpp	/^	int lf;$/;"	m	class:GeneralTranslocation::GeneralBFEnumTrans
+m_AANumber	.\pathcycle.hpp	/^    int m_AANumber;$/;"	m	class:GeneralTranslocation::PathCycle
+m_AAPath	.\pathcycle.hpp	/^    list<Path*> m_AAPath;$/;"	m	class:GeneralTranslocation::PathCycle
+m_ABNumber	.\pathcycle.hpp	/^    int m_ABNumber;$/;"	m	class:GeneralTranslocation::PathCycle
+m_ABPath	.\pathcycle.hpp	/^    list<Path*> m_ABPath;$/;"	m	class:GeneralTranslocation::PathCycle
+m_BBNumber	.\pathcycle.hpp	/^    int m_BBNumber;$/;"	m	class:GeneralTranslocation::PathCycle
+m_BBPath	.\pathcycle.hpp	/^    list<Path*> m_BBPath;$/;"	m	class:GeneralTranslocation::PathCycle
+m_allCutTrans	.\enumtrans.hpp	/^	vector<TransParam> m_allCutTrans;$/;"	m	class:Translocation::EnumTrans
+m_allCutTrans	.\genumtrans.hpp	/^	vector<TransParam> m_allCutTrans;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+m_allMergeTrans	.\enumtrans.hpp	/^	vector<TransParam> m_allMergeTrans;$/;"	m	class:Translocation::EnumTrans
+m_allMergeTrans	.\genumtrans.hpp	/^	vector<TransParam> m_allMergeTrans;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+m_allProperTrans	.\enumtrans.hpp	/^	vector<TransParam> m_allProperTrans;$/;"	m	class:Translocation::EnumTrans
+m_allProperTrans	.\genumtrans.hpp	/^	vector<TransParam> m_allProperTrans;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+m_backPerm	.\bfenumtrans.hpp	/^    BackPerm m_backPerm;$/;"	m	class:Translocation::BFEnumTrans
+m_backPerm	.\enumtrans.hpp	/^    BackPerm m_backPerm;$/;"	m	class:Translocation::EnumTrans
+m_backPerm	.\gbfenumtrans.hpp	/^    BackPerm m_backPerm;$/;"	m	class:GeneralTranslocation::GeneralBFEnumTrans
+m_backPerm	.\genumtrans.hpp	/^    BackPerm m_backPerm;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+m_chromComps	.\component.hpp	/^	vector<Interval> m_chromComps;\/\/ temp components$/;"	m	class:Translocation::Component
+m_chromComps	.\gcomponent.hpp	/^	vector<GeneralInterval> m_chromComps;\/\/ temp components$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_chromHasLeaf	.\component.hpp	/^	int m_chromHasLeaf;$/;"	m	class:Translocation::Component
+m_chromHasLeaf	.\gcomponent.hpp	/^	int m_chromHasLeaf;\/\/has rmsp??$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_chromHasSemiLeaf	.\gcomponent.hpp	/^	int m_chromHasSemiLeaf;\/\/has smsp$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_chromTrees	.\component.hpp	/^	ChromTree* m_chromTrees;\/\/??$/;"	m	class:Translocation::Component
+m_chromTrees	.\gcomponent.hpp	/^	GeneralChromTree* m_chromTrees;\/\/??$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_compBegin	.\component.hpp	/^	short int* m_compBegin;   \/\/temp start position -> component index$/;"	m	class:Translocation::Component
+m_compBegin	.\gcomponent.hpp	/^	short int* m_compBegin;   \/\/temp start position -> component index$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_compEnd	.\component.hpp	/^	short int* m_compEnd;     \/\/temp end position -> component index$/;"	m	class:Translocation::Component
+m_compEnd	.\gcomponent.hpp	/^	short int* m_compEnd;     \/\/temp end position -> component index$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_cycleNumber	.\bfenumtrans.hpp	/^    int m_cycleNumber;$/;"	m	class:Translocation::BFEnumTrans
+m_cycleNumber	.\gbfenumtrans.hpp	/^    int m_cycleNumber;$/;"	m	class:GeneralTranslocation::GeneralBFEnumTrans
+m_cycleNumber	.\pathcycle.hpp	/^    int m_cycleNumber;$/;"	m	class:GeneralTranslocation::PathCycle
+m_cycles	.\pathcycle.hpp	/^    list<Path*> m_cycles;$/;"	m	class:GeneralTranslocation::PathCycle
+m_depart	.\ctimer.hpp	/^         LARGE_INTEGER m_depart;$/;"	m	class:Utils::CTimer
+m_distance	.\bfenumtrans.hpp	/^    int m_distance;$/;"	m	class:Translocation::BFEnumTrans
+m_distance	.\enumtrans.hpp	/^    int m_distance;$/;"	m	class:Translocation::EnumTrans
+m_distance	.\gbfenumtrans.hpp	/^    int m_distance;$/;"	m	class:GeneralTranslocation::GeneralBFEnumTrans
+m_distance	.\genumtrans.hpp	/^    int m_distance;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+m_firstComps	.\bfenumtrans.hpp	/^	Component* m_firstComps;$/;"	m	class:Translocation::BFEnumTrans
+m_firstComps	.\enumtrans.hpp	/^	Component* m_firstComps;$/;"	m	class:Translocation::EnumTrans
+m_firstComps	.\gbfenumtrans.hpp	/^	GeneralComponent* m_firstComps;$/;"	m	class:GeneralTranslocation::GeneralBFEnumTrans
+m_firstComps	.\genumtrans.hpp	/^	GeneralComponent* m_firstComps;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+m_genePosit	.\bfenumtrans.hpp	/^	GenePosition* m_genePosit;$/;"	m	class:Translocation::BFEnumTrans
+m_genePosit	.\enumtrans.hpp	/^	GenePosition* m_genePosit;$/;"	m	class:Translocation::EnumTrans
+m_genePosit	.\gbfenumtrans.hpp	/^	GenePosition* m_genePosit;$/;"	m	class:GeneralTranslocation::GeneralBFEnumTrans
+m_genePosit	.\genumtrans.hpp	/^	GenePosition* m_genePosit;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+m_initDistance	.\enumtranstree.hpp	/^    int m_initDistance;$/;"	m	class:Translocation::EnumTransTree
+m_initDistance	.\genumtranstree.hpp	/^    int m_initDistance;$/;"	m	class:GeneralTranslocation::GeneralEnumTransTree
+m_pathCycle	.\gbfenumtrans.hpp	/^	PathCycle* m_pathCycle;$/;"	m	class:GeneralTranslocation::GeneralBFEnumTrans
+m_pathCycle	.\genumtrans.hpp	/^    PathCycle* m_pathCycle;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+m_root	.\enumtranstree.hpp	/^    TransTreeNode* m_root;$/;"	m	class:Translocation::EnumTransTree
+m_root	.\genumtranstree.hpp	/^    TransTreeNode* m_root;$/;"	m	class:GeneralTranslocation::GeneralEnumTransTree
+m_totalLeafNumber	.\component.hpp	/^	int m_totalLeafNumber;$/;"	m	class:Translocation::Component
+m_totalLeafNumber	.\gcomponent.hpp	/^	int m_totalLeafNumber; \/\/rmsp$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_totalRealSemiTreeNumber	.\gcomponent.hpp	/^	int m_totalRealSemiTreeNumber;\/\/ <= m_totalSemiTreeNumber !!\/\/ tree has rmsp and smsp $/;"	m	class:GeneralTranslocation::GeneralComponent
+m_totalSemiLeafNumber	.\gcomponent.hpp	/^	int m_totalSemiLeafNumber; \/\/smsp$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_totalSemiRealTreeNumber	.\gcomponent.hpp	/^	int m_totalSemiRealTreeNumber;\/\/ <= m_totalSemiTreeNumber !!\/\/ tree has rmsp and ssp (may has smsp)$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_totalSemiTreeNumber	.\gcomponent.hpp	/^	int m_totalSemiTreeNumber; \/\/tree has smsp$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_totalTreeNumber	.\component.hpp	/^	int m_totalTreeNumber;$/;"	m	class:Translocation::Component
+m_totalTreeNumber	.\gcomponent.hpp	/^	int m_totalTreeNumber; \/\/tree has rmsp$/;"	m	class:GeneralTranslocation::GeneralComponent
+m_tranSeqNumber	.\enumtranstree.hpp	/^    int m_tranSeqNumber;$/;"	m	class:Translocation::EnumTransTree
+m_tranSeqNumber	.\genumtranstree.hpp	/^    int m_tranSeqNumber;$/;"	m	class:GeneralTranslocation::GeneralEnumTransTree
+m_transNumber	.\bfenumtrans.hpp	/^    int m_transNumber;$/;"	m	class:Translocation::BFEnumTrans
+m_transNumber	.\enumtrans.hpp	/^    int m_transNumber;$/;"	m	class:Translocation::EnumTrans
+m_transNumber	.\gbfenumtrans.hpp	/^    int m_transNumber;$/;"	m	class:GeneralTranslocation::GeneralBFEnumTrans
+m_transNumber	.\genumtrans.hpp	/^    int m_transNumber;$/;"	m	class:GeneralTranslocation::GeneralEnumTrans
+main	.\translocation.cpp	/^int main()$/;"	f
+md1	.\median.hpp	/^	int md1,md2,md3;$/;"	m	class:Translocation::Median
+md2	.\median.hpp	/^	int md1,md2,md3;$/;"	m	class:Translocation::Median
+md3	.\median.hpp	/^	int md1,md2,md3;$/;"	m	class:Translocation::Median
+medianperm	.\median.hpp	/^	Permutation* medianperm;$/;"	m	class:Translocation::Median
+medianscore	.\median.hpp	/^	int medianscore;$/;"	m	class:Translocation::Median
+non	.\pathcycle.hpp	/^    enum Tail { non, A, B };$/;"	e	enum:GeneralTranslocation::Tail
+operator ()	.\median.hpp	/^			bool operator()(const TransParam& lhs, const TransParam& rhs) const$/;"	f	struct:Translocation::Median::TransParamCompare
+operator ()	.\median.hpp	/^			bool operator()(const Vertex& lhs, const Vertex& rhs) const$/;"	f	struct:Translocation::Median::VertexCompare
+operator <	.\geneposition.cpp	/^bool operator < (const Position& lpos, const Position& rpos){$/;"	f	namespace:Translocation
+operator <	.\permutation.cpp	/^bool operator<(const TransParam& tp1, const TransParam& tp2)$/;"	f	namespace:Translocation
+operator <<	.\bfenumtrans.cpp	/^ostream& operator<<(ostream& os, const BFEnumTrans& bfEnumTrans)$/;"	f	namespace:Translocation
+operator <<	.\chromosome.cpp	/^ostream& operator<<(ostream& os, const Chromosome& chrom)$/;"	f	namespace:Translocation
+operator <<	.\chromrange.cpp	/^ostream& operator<<(ostream& os, const ChromRange& chromrg)$/;"	f	namespace:Translocation
+operator <<	.\chromtree.cpp	/^	ostream& operator<<(ostream& os,const ChromTree& chtree)$/;"	f	namespace:Translocation
+operator <<	.\component.cpp	/^ostream& operator<<(ostream& os,const Component& compon)$/;"	f	namespace:Translocation
+operator <<	.\enumtrans.cpp	/^ostream& operator<<(ostream& os, const EnumTrans& enumTrans)$/;"	f	namespace:Translocation
+operator <<	.\enumtranstree.cpp	/^ostream& operator<<(ostream& os, const EnumTransTree& enumTransTree)$/;"	f	namespace:Translocation
+operator <<	.\gbfenumtrans.cpp	/^ostream& operator<<(ostream& os, const GeneralBFEnumTrans& bfEnumTrans)$/;"	f	namespace:GeneralTranslocation
+operator <<	.\gchromtree.cpp	/^	ostream& operator<<(ostream& os,const GeneralChromTree& chtree)$/;"	f	namespace:GeneralTranslocation
+operator <<	.\gcomponent.cpp	/^ostream& operator<<(ostream& os,const GeneralComponent& compon)$/;"	f	namespace:GeneralTranslocation
+operator <<	.\geneposition.cpp	/^ostream& operator<<(ostream& os, const GenePosition& genePos)$/;"	f	namespace:Translocation
+operator <<	.\geneposition.cpp	/^ostream& operator<<(ostream& os, const Position& posit)$/;"	f	namespace:Translocation
+operator <<	.\genumtrans.cpp	/^ostream& operator<<(ostream& os, const GeneralEnumTrans& enumTrans)$/;"	f	namespace:GeneralTranslocation
+operator <<	.\genumtranstree.cpp	/^ostream& operator<<(ostream& os, const GeneralEnumTransTree& enumTransTree)$/;"	f	namespace:GeneralTranslocation
+operator <<	.\median.cpp	/^ostream& operator<<(ostream& os,const Median& mdn)$/;"	f	namespace:Translocation
+operator <<	.\median.cpp	/^std::ostream& operator<< (std::ostream& os, const Median::Vertex& vtx)$/;"	f	namespace:Translocation
+operator <<	.\pathcycle.cpp	/^	ostream& operator<<(ostream& os,const GeneralInterval& gintvl)$/;"	f	namespace:GeneralTranslocation
+operator <<	.\pathcycle.cpp	/^	ostream& operator<<(ostream& os,const PathCycle& cycles)$/;"	f	namespace:GeneralTranslocation
+operator <<	.\pathcycle.cpp	/^	ostream& operator<<(ostream& os,const PathCycle::Path& paths)$/;"	f	namespace:GeneralTranslocation
+operator <<	.\permutation.cpp	/^ostream& operator<<(ostream& os, const Permutation& perms)$/;"	f	namespace:Translocation
+operator <<	.\permutation.cpp	/^ostream& operator<<(ostream& os, const TransParam& trprm)$/;"	f	namespace:Translocation
+operator =	.\chromosome.cpp	/^Chromosome& Chromosome::operator=(const Chromosome& rchrom)$/;"	f	class:Translocation::Chromosome
+operator =	.\geneposition.cpp	/^GenePosition& GenePosition::operator=(const GenePosition& rgenePosit)$/;"	f	class:Translocation::GenePosition
+operator =	.\gpermutation.cpp	/^GeneralPermutation& GeneralPermutation::operator=(const GeneralPermutation& rperm)$/;"	f	class:GeneralTranslocation::GeneralPermutation
+operator =	.\permutation.cpp	/^Permutation& Permutation::operator=(const Permutation& rperm)$/;"	f	class:Translocation::Permutation
+operator ==	.\chromosome.cpp	/^bool operator==(const Chromosome& lchrom, const Chromosome& rchrom)$/;"	f	namespace:Translocation
+operator ==	.\geneposition.cpp	/^bool operator == (const Interval& litvl, const Interval& ritvl)$/;"	f	namespace:Translocation
+operator ==	.\gpermutation.cpp	/^bool operator==(const GeneralPermutation& lperm, const GeneralPermutation& rperm)$/;"	f	namespace:GeneralTranslocation
+operator ==	.\permutation.cpp	/^bool operator==(const Permutation& lperm, const Permutation& rperm)$/;"	f	namespace:Translocation
+operator ==	.\permutation.cpp	/^bool operator==(const TransParam& tp1, const TransParam& tp2)$/;"	f	namespace:Translocation
+operator >	.\geneposition.cpp	/^bool operator > (const Position& lpos, const Position& rpos)$/;"	f	namespace:Translocation
+optimizeCaps	.\pathcycle.cpp	/^    void PathCycle::optimizeCaps(GeneralPermutation& permut)$/;"	f	class:GeneralTranslocation::PathCycle
+parent	.\chromtree.hpp	/^		TreeNode * parent;$/;"	m	struct:Translocation::ChromTree::TreeNode
+parent	.\enumtranstree.hpp	/^        TransTreeNode* parent;$/;"	m	struct:Translocation::EnumTransTree::TransTreeNode
+parent	.\gchromtree.hpp	/^		TreeNode * parent;$/;"	m	struct:GeneralTranslocation::GeneralChromTree::TreeNode
+parent	.\genumtranstree.hpp	/^        TransTreeNode* parent;$/;"	m	struct:GeneralTranslocation::GeneralEnumTransTree::TransTreeNode
+path	.\pathcycle.hpp	/^		vector<Position> path;$/;"	m	struct:GeneralTranslocation::PathCycle::Path
+perm1	.\median.hpp	/^	Permutation* perm1;$/;"	m	class:Translocation::Median
+perm2	.\median.hpp	/^	Permutation* perm2;$/;"	m	class:Translocation::Median
+perm3	.\median.hpp	/^	Permutation* perm3;$/;"	m	class:Translocation::Median
+posit	.\geneposition.hpp	/^    Position* posit;\/\/$/;"	m	class:Translocation::GenePosition
+print	.\chromosome.cpp	/^void print(ostream& os, const Chromosome& chrom)$/;"	f	namespace:Translocation
+print	.\gpermutation.cpp	/^void print(ostream& os, const GeneralPermutation& perms)$/;"	f	namespace:GeneralTranslocation
+pruneTP	.\chromtree.cpp	/^	void ChromTree::pruneTP(const int length)$/;"	f	class:Translocation::ChromTree
+pruneTP	.\gchromtree.cpp	/^	void GeneralChromTree::pruneTP(const int length)$/;"	f	class:GeneralTranslocation::GeneralChromTree
+randomEnumTestALL	.\randomtranstest.cpp	/^void randomEnumTestALL(int num)$/;"	f	namespace:Translocation
+randomMedianTest	.\randomtranstest.cpp	/^void randomMedianTest()$/;"	f	namespace:Translocation
+randomTest	.\randomtranstest.cpp	/^void randomTest(bool tr,bool wrt,bool bf)$/;"	f	namespace:Translocation
+randomTest	.\randomtranstest.cpp	/^void randomTest(bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:Translocation
+realSemiTreeNumber	.\gchromtree.hpp	/^	int realSemiTreeNumber; \/\/ <= semiTreeNumber !!\/\/ has rmsp and smsp no ssp$/;"	m	class:GeneralTranslocation::GeneralChromTree
+regain	.\permutation.cpp	/^void Permutation::regain(Chromosome& chromPermOld, int chi)$/;"	f	class:Translocation::Permutation
+renumber	.\permutation.cpp	/^void renumber( Permutation& A,  Permutation& B)$/;"	f	namespace:Translocation
+renumber	.\permutation.cpp	/^void renumber(int* a, int* b, int n)$/;"	f	namespace:Translocation
+reverse	.\chromosome.cpp	/^void Chromosome::reverse()$/;"	f	class:Translocation::Chromosome
+reverse	.\chromosome.cpp	/^void Chromosome::reverse(int begini, int endi)$/;"	f	class:Translocation::Chromosome
+reverseChrom	.\permutation.cpp	/^void Permutation::reverseChrom(int chi)$/;"	f	class:Translocation::Permutation
+reverseChrom	.\permutation.cpp	/^void Permutation::reverseChrom(int chi, int begini, int endi)$/;"	f	class:Translocation::Permutation
+root	.\chromtree.hpp	/^		TreeNode* root;\/\/temp perm tree$/;"	m	struct:Translocation::ChromTree::ChromTreeNode
+root	.\gchromtree.hpp	/^		TreeNode* root;\/\/temp perm tree$/;"	m	struct:GeneralTranslocation::GeneralChromTree::ChromTreeNode
+semiLeafNumber	.\gchromtree.hpp	/^		short int semiLeafNumber;\/\/semiLeafs.size();$/;"	m	struct:GeneralTranslocation::GeneralChromTree::ChromTreeNode
+semiLeafs	.\gchromtree.hpp	/^		vector<GeneralInterval> semiLeafs;\/\/LeafType$/;"	m	struct:GeneralTranslocation::GeneralChromTree::ChromTreeNode
+semiRealNode	.\gchromtree.hpp	/^		short int semiRealNode;\/\/ semi node contain real leaf!!$/;"	m	struct:GeneralTranslocation::GeneralChromTree::ChromTreeNode
+semiRealTreeNumber	.\gchromtree.hpp	/^    int semiRealTreeNumber; \/\/ <= semiTreeNumber !!\/\/ has rmsp and ssp (may has smsp)$/;"	m	class:GeneralTranslocation::GeneralChromTree
+semiTreeNumber	.\gchromtree.hpp	/^	int semiTreeNumber;\/\/ has smsp$/;"	m	class:GeneralTranslocation::GeneralChromTree
+setGene	.\chromosome.hpp	/^	void setGene(int i, int value)  {$/;"	f	class:Translocation::Chromosome
+setGene	.\permutation.cpp	/^void Permutation::setGene(int chi, int genei, int value)$/;"	f	class:Translocation::Permutation
+setLength	.\chromosome.hpp	/^    void setLength(int value)  {$/;"	f	class:Translocation::Chromosome
+splitCycles	.\pathcycle.cpp	/^	void PathCycle::splitCycles(const GeneralPermutation& permut, const GenePosition& genePosit, vector<Position>& oneCycle)$/;"	f	class:GeneralTranslocation::PathCycle
+splitTP	.\gchromtree.cpp	/^	void GeneralChromTree::splitTP(const int length)\/\/??????????????$/;"	f	class:GeneralTranslocation::GeneralChromTree
+start	.\ctimer.hpp	/^      inline void start()$/;"	f	class:Utils::CTimer
+startIndex	.\chromrange.hpp	/^    short int startIndex;$/;"	m	struct:Translocation::ChromRange
+staticMedianTest	.\statictranstest.cpp	/^void staticMedianTest()$/;"	f	namespace:Translocation
+staticTest	.\statictranstest.cpp	/^void staticTest(bool tr,bool wrt,bool bf)$/;"	f	namespace:Translocation
+staticTest	.\statictranstest.cpp	/^void staticTest(bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:Translocation
+staticTest2	.\statictranstest.cpp	/^void staticTest2(bool tr,bool wrt,bool bf)$/;"	f	namespace:Translocation
+staticTest2	.\statictranstest.cpp	/^void staticTest2(bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:Translocation
+style	.\chromtree.hpp	/^		NodeStyle style;$/;"	m	struct:Translocation::ChromTree::TreeNode
+style	.\gchromtree.hpp	/^		NodeStyle style;$/;"	m	struct:GeneralTranslocation::GeneralChromTree::TreeNode
+testEnumTrans	.\transtest.cpp	/^int testEnumTrans(Permutation& permut, double& usetime, bool wrt)$/;"	f	namespace:Translocation
+testEnumTransTree	.\transtest.cpp	/^void testEnumTransTree(Permutation& permut, double& usetime, bool wrt)$/;"	f	namespace:Translocation
+testPermut	.\transtest.cpp	/^void testPermut(Permutation& permut,bool tr,bool wrt,bool bf,double& enumtime,double& bftime,double& trtime)$/;"	f	namespace:Translocation
+ticks	.\cycle.h	/^typedef LARGE_INTEGER ticks;$/;"	t
+ticks	.\cycle.h	/^typedef hrtime_t ticks;$/;"	t
+ticks	.\cycle.h	/^typedef long long ticks;$/;"	t
+ticks	.\cycle.h	/^typedef struct timespec ticks;$/;"	t	typeref:struct:timespec
+ticks	.\cycle.h	/^typedef timebasestruct_t ticks;$/;"	t
+ticks	.\cycle.h	/^typedef uint64_t ticks;$/;"	t
+ticks	.\cycle.h	/^typedef unsigned __int64 ticks;$/;"	t
+ticks	.\cycle.h	/^typedef unsigned int ticks;$/;"	t
+ticks	.\cycle.h	/^typedef unsigned long long ticks;$/;"	t
+ticks	.\cycle.h	/^typedef unsigned long ticks;$/;"	t
+toIntArray	.\permutation.cpp	/^const void Permutation::toIntArray(int * arr)const$/;"	f	class:Translocation::Permutation
+totalLeafNumber	.\component.cpp	/^int Component::totalLeafNumber()$/;"	f	class:Translocation::Component
+transStyle	.\permutation.hpp	/^	TransStyle transStyle;$/;"	m	struct:Translocation::TransParam
+transprm	.\enumtranstree.hpp	/^        TransParam transprm;$/;"	m	struct:Translocation::EnumTransTree::TransTreeNode
+transprm	.\genumtranstree.hpp	/^        TransParam transprm;$/;"	m	struct:GeneralTranslocation::GeneralEnumTransTree::TransTreeNode
+treeNumber	.\chromtree.hpp	/^    int treeNumber;$/;"	m	class:Translocation::ChromTree
+treeNumber	.\gchromtree.hpp	/^    int treeNumber;\/\/ has rmsp$/;"	m	class:GeneralTranslocation::GeneralChromTree
+trees	.\chromtree.hpp	/^    list<ChromTreeNode*> trees;\/\/vector$/;"	m	class:Translocation::ChromTree
+trees	.\gchromtree.hpp	/^    list<ChromTreeNode*> trees;\/\/vector$/;"	m	class:GeneralTranslocation::GeneralChromTree
+type	.\pathcycle.hpp	/^		PathType type;$/;"	m	struct:GeneralTranslocation::PathCycle::Path
+type	.\pathcycle.hpp	/^	PathType type;$/;"	m	struct:GeneralTranslocation::GeneralInterval
+updateBeginIndex	.\geneposition.cpp	/^void GenePosition::updateBeginIndex(const Permutation& permut, int chrom1, int chrom2)$/;"	f	class:Translocation::GenePosition
+updateChromLeaf	.\component.cpp	/^void Component::updateChromLeaf(const Permutation& permut, int chn, ChromTree& chrtr, int& leafch, int& treech)$/;"	f	class:Translocation::Component
+updateChromLeaf	.\gcomponent.cpp	/^void GeneralComponent::updateChromLeaf(const GeneralPermutation& permut, int chn, GeneralChromTree& chrtr, int& leafch, int& treech, int& semileafch, int& semitreech, int& rstreech, int& srtreech)$/;"	f	class:GeneralTranslocation::GeneralComponent
+updatePosition	.\geneposition.cpp	/^void GenePosition::updatePosition(const Permutation& permut, int chn)$/;"	f	class:Translocation::GenePosition
+updatef	.\component.cpp	/^int Component::updatef(int leafch, int treech)$/;"	f	class:Translocation::Component
+updategf	.\gcomponent.cpp	/^int GeneralComponent::updategf(const GeneralPermutation& permut, int chi1, int chi2, GeneralChromTree& chrtr1, GeneralChromTree& chrtr2)$/;"	f	class:GeneralTranslocation::GeneralComponent
+worst	.\median.hpp	/^		short worst;	$/;"	m	struct:Translocation::Median::Vertex
+~BFEnumTrans	.\bfenumtrans.cpp	/^BFEnumTrans::~BFEnumTrans()$/;"	f	class:Translocation::BFEnumTrans
+~ChromTree	.\chromtree.cpp	/^	ChromTree::~ChromTree()$/;"	f	class:Translocation::ChromTree
+~Chromosome	.\chromosome.cpp	/^Chromosome::~Chromosome()$/;"	f	class:Translocation::Chromosome
+~Component	.\component.cpp	/^Component::~Component()$/;"	f	class:Translocation::Component
+~EnumTrans	.\enumtrans.cpp	/^EnumTrans::~EnumTrans()$/;"	f	class:Translocation::EnumTrans
+~EnumTransTree	.\enumtranstree.cpp	/^EnumTransTree::~EnumTransTree()$/;"	f	class:Translocation::EnumTransTree
+~GenePosition	.\geneposition.cpp	/^GenePosition::~GenePosition()$/;"	f	class:Translocation::GenePosition
+~GeneralBFEnumTrans	.\gbfenumtrans.cpp	/^GeneralBFEnumTrans::~GeneralBFEnumTrans()$/;"	f	class:GeneralTranslocation::GeneralBFEnumTrans
+~GeneralChromTree	.\gchromtree.cpp	/^	GeneralChromTree::~GeneralChromTree()$/;"	f	class:GeneralTranslocation::GeneralChromTree
+~GeneralComponent	.\gcomponent.cpp	/^GeneralComponent::~GeneralComponent()$/;"	f	class:GeneralTranslocation::GeneralComponent
+~GeneralEnumTrans	.\genumtrans.cpp	/^GeneralEnumTrans::~GeneralEnumTrans()$/;"	f	class:GeneralTranslocation::GeneralEnumTrans
+~GeneralEnumTransTree	.\genumtranstree.cpp	/^GeneralEnumTransTree::~GeneralEnumTransTree()$/;"	f	class:GeneralTranslocation::GeneralEnumTransTree
+~GeneralPermutation	.\gpermutation.cpp	/^GeneralPermutation::~GeneralPermutation()$/;"	f	class:GeneralTranslocation::GeneralPermutation
+~Median	.\median.cpp	/^Median::~Median(void)$/;"	f	class:Translocation::Median
+~PathCycle	.\pathcycle.cpp	/^	PathCycle::~PathCycle()$/;"	f	class:GeneralTranslocation::PathCycle
+~Permutation	.\permutation.cpp	/^Permutation::~Permutation()$/;"	f	class:Translocation::Permutation

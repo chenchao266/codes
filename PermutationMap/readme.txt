@@ -1,0 +1,1 @@
+在编译时请使用-DSYMBOL_DO_TEST选项。
